@@ -109,6 +109,7 @@
 .u-section-2 .u-text-1 {
   width: 617px;
   text-shadow: 2px 2px 8px rgba(0,0,0,1);
+  font-size: 4.5rem;
   margin: 96px auto 0;
 }
 
@@ -130,11 +131,13 @@
 
 .u-section-2 .u-text-2 {
   text-shadow: 2px 2px 8px rgba(0,0,0,1);
+  font-size: 1.125rem;
   margin: -225px 591px 0 193px;
 }
 
 .u-section-2 .u-text-3 {
   text-shadow: 2px 2px 8px rgba(0,0,0,1);
+  font-size: 1.125rem;
   margin: -172px 185px 0 599px;
 }
 
@@ -156,11 +159,13 @@
 
 .u-section-2 .u-text-4 {
   text-shadow: 2px 2px 8px rgba(0,0,0,1);
+  font-size: 1.125rem;
   margin: -224px 591px 0 193px;
 }
 
 .u-section-2 .u-text-5 {
   text-shadow: 2px 2px 8px rgba(0,0,0,1);
+  font-size: 1.125rem;
   margin: -202px 185px 60px 599px;
 }
 
@@ -171,6 +176,7 @@
 
   .u-section-2 .u-text-1 {
     margin-top: 60px;
+    font-size: 3.75rem;
   }
 
   .u-section-2 .u-text-2 {
@@ -275,6 +281,7 @@
     margin-top: 60px;
     margin-left: 0;
     margin-right: 0;
+    font-size: 3rem;
   }
 
   .u-section-2 .u-image-1 {
@@ -288,23 +295,27 @@
   .u-section-2 .u-text-2 {
     margin-right: 70px;
     margin-left: 170px;
+    font-size: 1rem;
   }
 
   .u-section-2 .u-text-3 {
     margin-top: 20px;
     margin-right: 138px;
     margin-left: 180px;
+    font-size: 1rem;
   }
 
   .u-section-2 .u-text-4 {
     margin-right: 89px;
     margin-left: 190px;
+    font-size: 1rem;
   }
 
   .u-section-2 .u-text-5 {
     margin-top: 20px;
     margin-right: 137px;
     margin-left: 190px;
+    font-size: 1rem;
   }
 }
 
