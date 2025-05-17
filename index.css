@@ -706,7 +706,7 @@
 
 @media (max-width: 575px) {
    .u-section-5 {
-    min-height: 691px;
+    min-height: 692px;
   }
 
   .u-section-5 .u-image-1 {
@@ -717,6 +717,6 @@
   .u-section-5 .u-text-1 {
     font-size: 1rem;
     width: 340px;
-    margin: 0 auto 30px;
+    margin: 13px auto 18px;
   }
 }
